@@ -26,7 +26,7 @@ namespace WinFormsApp1
                 tenchot_Fnhap = textBox1.Text;
                 thoigian_Fnhap = textBox2.Text;
 
-                this.Close();// dong foem lai
+                this.Close();// dong form lai
 
 
             }
